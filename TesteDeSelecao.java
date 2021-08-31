@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class TesteDeSelecao{
     public static void main (String[] args){
-       
+       //teste
         int A;
         int B;
         int C;
